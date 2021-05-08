@@ -53,9 +53,41 @@ namespace App
                 Console.WriteLine("=====");
             
                 Dog TheDogDzeki = dogs.FirstOrDefault(x => x.Name == "Dzeki");
-                Console.WriteLine("DOG Dzeki:");
+                Console.WriteLine("DOG DZEKI:");
                 TheDogDzeki.PrintAnimal();
                 TheDogDzeki.Bark();
+
+                Cat Mima = new Cat("Mima", "persian cat", 3, "black", true);
+                Dog Dzoni = new Dog("Dzoni", "labrador", 2, "brown", true);
+
+
+
+                Console.WriteLine("BONUS:");
+                List<Animal> animals = new List<Animal>()
+                {
+                     Mima,Dzoni
+
+                };
+
+                foreach (Animal animal in animals)
+                {
+                   // Console.WriteLine(animal.GetType());
+
+                    if (animal.GetType() == Mima.GetType()) {
+
+                        ((Cat)animal).Eat("something");
+                    }
+
+                    else if (animal.GetType() == Dzoni.GetType())
+                    {
+                        ((Dog)animal).Bark();
+                    }
+
+                    else
+                    {
+                        Console.WriteLine("No dog/cat. Sorry");
+                    }
+                }
 
             }
 

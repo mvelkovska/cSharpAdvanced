@@ -1,0 +1,9 @@
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\bin\Debug\netcoreapp3.1\ExerciseDomain.deps.json
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\bin\Debug\netcoreapp3.1\ExerciseDomain.dll
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\bin\Debug\netcoreapp3.1\ExerciseDomain.pdb
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\obj\Debug\netcoreapp3.1\ExerciseDomain.csprojAssemblyReference.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\obj\Debug\netcoreapp3.1\ExerciseDomain.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\obj\Debug\netcoreapp3.1\ExerciseDomain.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\obj\Debug\netcoreapp3.1\ExerciseDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\obj\Debug\netcoreapp3.1\ExerciseDomain.dll
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseDomain\obj\Debug\netcoreapp3.1\ExerciseDomain.pdb

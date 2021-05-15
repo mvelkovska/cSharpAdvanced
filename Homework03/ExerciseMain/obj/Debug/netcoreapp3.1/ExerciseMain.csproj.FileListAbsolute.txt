@@ -1,0 +1,16 @@
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\bin\Debug\netcoreapp3.1\ExerciseMain.exe
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\bin\Debug\netcoreapp3.1\ExerciseMain.deps.json
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\bin\Debug\netcoreapp3.1\ExerciseMain.runtimeconfig.json
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\bin\Debug\netcoreapp3.1\ExerciseMain.runtimeconfig.dev.json
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\bin\Debug\netcoreapp3.1\ExerciseMain.dll
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\bin\Debug\netcoreapp3.1\ExerciseMain.pdb
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\obj\Debug\netcoreapp3.1\ExerciseMain.csprojAssemblyReference.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\obj\Debug\netcoreapp3.1\ExerciseMain.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\obj\Debug\netcoreapp3.1\ExerciseMain.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\obj\Debug\netcoreapp3.1\ExerciseMain.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\obj\Debug\netcoreapp3.1\ExerciseMain.dll
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\obj\Debug\netcoreapp3.1\ExerciseMain.pdb
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\obj\Debug\netcoreapp3.1\ExerciseMain.genruntimeconfig.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\bin\Debug\netcoreapp3.1\ExerciseDomain.dll
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\bin\Debug\netcoreapp3.1\ExerciseDomain.pdb
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework03\ExerciseMain\obj\Debug\netcoreapp3.1\ExerciseMain.csproj.CopyComplete

@@ -11,7 +11,7 @@ namespace ExerciseDomain.Entities
 
         public Car(int id, string type, int yearofproduction, int batchnumber,List<string>countries,int fueltank) : base(id, type, yearofproduction, batchnumber)
         {
-            //List<string> Countries = new List<string>();
+            // Countries = new List<string>();
             Countries = countries;
             FuelTank = fueltank;
         }

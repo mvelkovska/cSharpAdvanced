@@ -10,7 +10,7 @@ namespace Task2Main
         static void Main(string[] args)
         {
             PetStore<Cat>.ListOfPets.Add(new Cat("Crnco", "domestic", 1, false, 8));
-            PetStore<Pet>.ListOfPets.Add(new Cat("Sivco", "domestic", 2, false, 7));
+            PetStore<Cat>.ListOfPets.Add(new Cat("Sivco", "domestic", 2, false, 7));
 
             PetStore<Cat>.PrintThePet();
             Console.WriteLine("===========");

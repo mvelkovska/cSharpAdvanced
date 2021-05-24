@@ -1,0 +1,16 @@
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\bin\Debug\netcoreapp3.1\Task2Main.exe
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\bin\Debug\netcoreapp3.1\Task2Main.deps.json
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\bin\Debug\netcoreapp3.1\Task2Main.runtimeconfig.json
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\bin\Debug\netcoreapp3.1\Task2Main.runtimeconfig.dev.json
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\bin\Debug\netcoreapp3.1\Task2Main.dll
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\bin\Debug\netcoreapp3.1\Task2Main.pdb
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\bin\Debug\netcoreapp3.1\Task2Domain.dll
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\bin\Debug\netcoreapp3.1\Task2Domain.pdb
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\obj\Debug\netcoreapp3.1\Task2Main.csprojAssemblyReference.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\obj\Debug\netcoreapp3.1\Task2Main.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\obj\Debug\netcoreapp3.1\Task2Main.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\obj\Debug\netcoreapp3.1\Task2Main.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\obj\Debug\netcoreapp3.1\Task2Main.csproj.CopyComplete
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\obj\Debug\netcoreapp3.1\Task2Main.dll
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\obj\Debug\netcoreapp3.1\Task2Main.pdb
+C:\Users\Ivica\Desktop\sedc\backEndAll\cSharpAdvanced\Homework04\Task2Main\obj\Debug\netcoreapp3.1\Task2Main.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\bin\Debug\netcoreapp3.1\Bonus.exe
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\bin\Debug\netcoreapp3.1\Bonus.deps.json
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\bin\Debug\netcoreapp3.1\Bonus.runtimeconfig.json
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\bin\Debug\netcoreapp3.1\Bonus.runtimeconfig.dev.json
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\bin\Debug\netcoreapp3.1\Bonus.dll
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\bin\Debug\netcoreapp3.1\Bonus.pdb
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\obj\Debug\netcoreapp3.1\Bonus.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\obj\Debug\netcoreapp3.1\Bonus.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\obj\Debug\netcoreapp3.1\Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\obj\Debug\netcoreapp3.1\Bonus.dll
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\obj\Debug\netcoreapp3.1\Bonus.pdb
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\obj\Debug\netcoreapp3.1\Bonus.genruntimeconfig.cache
+C:\Users\Ivica\Desktop\SEDC\backEndAll\cSharpAdvanced\Homework-05\Homework5\Bonus\obj\Debug\netcoreapp3.1\Bonus.csproj.AssemblyReference.cache

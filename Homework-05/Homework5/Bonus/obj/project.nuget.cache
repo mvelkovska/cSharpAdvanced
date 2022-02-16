@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjSZmo8lpTH5QZXzp8Fw/P87y3qfF3w3nYVMdROy99HzzV7NCjhZcmKJJNz1iQIsHQ1hbDSQnpbN2hdre1jk4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivica\\Desktop\\SEDC\\backEndAll\\cSharpAdvanced\\Homework-05\\Homework5\\Bonus\\Bonus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

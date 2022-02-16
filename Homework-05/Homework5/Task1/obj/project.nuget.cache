@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kh3W6fIaqiF3UhAI/H9Vew9PgTEUP1zArc1mO49iU5pkhLPwbNlR4ZC4ZXDDeEafT5H1QxwGCBv/DzyjO0+w4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivica\\Desktop\\SEDC\\backEndAll\\cSharpAdvanced\\Homework-05\\Homework5\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

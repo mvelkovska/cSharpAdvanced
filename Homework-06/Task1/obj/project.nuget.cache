@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZqdw4db7C/i3SIzIowekvcZ88mkPq8cKru/0SC12s6/ZXJvMECs6B2J0kbv7aMGP1ymC1/gnAKyQmx8acjYNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivica\\Desktop\\SEDC\\backEndCsharp\\cSharpAdvanced\\Homework-06\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivica\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ivica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
